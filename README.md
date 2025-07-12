@@ -16,10 +16,10 @@ This project documents my custom-built arcade cabinet — a modern style wall-mo
 
 
 <p float="left">
-  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/AF-vgYCo.jpg?raw=true" width="24.5%" />
-  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/image2.jpg?raw=true" width="24.5%" />
-  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/image1.jpg?raw=true" width="24.5%" />
-  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/image3.jpg?raw=true" width="24.5%" />
+  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/AF-vgYCo.jpg?raw=true" width="23.5%" />
+  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/image2.jpg?raw=true" width="23.5%" />
+  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/image1.jpg?raw=true" width="23.5%" />
+  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/image3.jpg?raw=true" width="23.5%" />
 </p>
 
 *Starting off*
@@ -45,10 +45,10 @@ This project documents my custom-built arcade cabinet — a modern style wall-mo
 
 
 <p float="left">
-  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/UBoN4HCj.jpg?raw=true" width="18.5%" />
-  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/lgSA-eKT.jpg?raw=true" width="26.5%" />
-  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/Zyg5WQ-8.jpg?raw=true" width="26.5%" />
-  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/TLcEc0R4.jpg?raw=true" width="26.5%" />
+  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/UBoN4HCj.jpg?raw=true" width="18%" />
+  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/lgSA-eKT.jpg?raw=true" width="25.5%" />
+  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/Zyg5WQ-8.jpg?raw=true" width="25.5%" />
+  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/TLcEc0R4.jpg?raw=true" width="25.5%" />
 </p>
 
 *Art work (art made by [Elee](https://eleeart.wixsite.com/my-art-site) (wife)*
@@ -56,10 +56,10 @@ This project documents my custom-built arcade cabinet — a modern style wall-mo
 
 
 <p float="left">
-  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/qfCjuOsd.jpg?raw=true" width="24.5%" />
-  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/gI3AxCEo.jpg?raw=true" width="24.5%" />
-  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/cbjsslXr.jpg?raw=true" width="24.5%" />
-  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/qisuCbvP.jpg?raw=true" width="24.5%" />
+  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/qfCjuOsd.jpg?raw=true" width="23.5%" />
+  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/gI3AxCEo.jpg?raw=true" width="23.5%" />
+  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/cbjsslXr.jpg?raw=true" width="23.5%" />
+  <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/qisuCbvP.jpg?raw=true" width="23.5%" />
 </p>
 
 *Additional art, T-molding, wall mounting with screen*
@@ -83,7 +83,7 @@ This project documents my custom-built arcade cabinet — a modern style wall-mo
   <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/qF6ak9sv.jpg?raw=true" width="32%" />
 </p>
 
-*Finishing touches*
+*Finishing touches (art made by [Elee](https://eleeart.wixsite.com/my-art-site) (wife)*
 <br><br><br>
 
 
