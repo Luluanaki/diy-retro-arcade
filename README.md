@@ -51,7 +51,7 @@ This project documents my custom-built arcade cabinet — a modern style wall-mo
   <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/TLcEc0R4.jpg?raw=true" width="25.5%" />
 </p>
 
-*Art work (art made by [Elee](https://eleeart.wixsite.com/my-art-site) (wife)*
+*Art work (art made by [Elee](https://eleeart.wixsite.com/my-art-site) (wife))*
 <br><br><br>
 
 
@@ -83,7 +83,7 @@ This project documents my custom-built arcade cabinet — a modern style wall-mo
   <img src="https://github.com/Luluanaki/diy-retro-arcade/blob/main/Retro%20Arcade%20Cabinet%20Photos/qF6ak9sv.jpg?raw=true" width="32%" />
 </p>
 
-*Finishing touches (art made by [Elee](https://eleeart.wixsite.com/my-art-site) (wife)*
+*Finishing touches (art made by [Elee](https://eleeart.wixsite.com/my-art-site) (wife))*
 <br><br><br>
 
 
